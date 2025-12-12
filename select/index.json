@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "El Camino",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2025-12-12T16:33:54.756809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "El Camino de la Noche",
+      "artist": "José Alfredo Jiménez",
+      "has_synced": true,
+      "path": "select/01_El_Camino_de_la_Noche_José_Alfredo_Jiménez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "El Camino (Il cammino)",
+      "artist": "Eros Ramazzotti",
+      "has_synced": false,
+      "path": "select/02_El_Camino_(Il_cammino)_Eros_Ramazzotti.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "El camino",
+      "artist": "Eros Ramazzotti",
+      "has_synced": false,
+      "path": "select/03_El_camino_Eros_Ramazzotti.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Por el Camino (Strada Facendo)",
+      "artist": "Claudio Baglioni",
+      "has_synced": false,
+      "path": "select/04_Por_el_Camino_(Strada_Facendo)_Claudio_Baglioni.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "El Camino Del Amor",
+      "artist": "Joan Sebastian",
+      "has_synced": true,
+      "path": "select/05_El_Camino_Del_Amor_Joan_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "En El Camino",
+      "artist": "El Fantasma",
+      "has_synced": true,
+      "path": "select/06_En_El_Camino_El_Fantasma.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "En El Camino - Versión Tuba",
+      "artist": "El Fantasma",
+      "has_synced": true,
+      "path": "select/07_En_El_Camino_-_Versión_Tuba_El_Fantasma.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "El Camino",
+      "artist": "Elizabeth Cook",
+      "has_synced": true,
+      "path": "select/08_El_Camino_Elizabeth_Cook.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "El Camino (The Road) - 1999 Remaster",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/09_El_Camino_(The_Road)_-_1999_Remaster_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "El Camino (The Road) [wMichael Ronstadt; Peter Ronstadt]",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/10_El_Camino_(The_Road)_[wMichael_Ronstadt;_Peter_Ronstadt]_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lágrimas Tiene el Camino",
+      "artist": "Julio Iglesias",
+      "has_synced": false,
+      "path": "select/11_Lágrimas_Tiene_el_Camino_Julio_Iglesias.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "El Camino",
+      "artist": "Gipsy Kings",
+      "has_synced": true,
+      "path": "select/12_El_Camino_Gipsy_Kings.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "El Camino",
+      "artist": "The Gipsy Kings",
+      "has_synced": true,
+      "path": "select/13_El_Camino_The_Gipsy_Kings.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "El Camino",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_El_Camino_[Alexandros].txt"
+    }
+  ]
+}
